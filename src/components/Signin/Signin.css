@@ -1,0 +1,10 @@
+.Signin {
+    display: flex;
+    width: 20vw;
+    height: 35vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}

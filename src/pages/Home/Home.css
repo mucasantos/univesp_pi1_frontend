@@ -1,0 +1,7 @@
+.signinArea {
+    display: flex;
+    height: 80vh;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}

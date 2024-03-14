@@ -1,0 +1,19 @@
+.productSupplyContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 1em 2em;
+}
+
+.addProductSupplyArea {
+  display: flex;
+  flex: 1;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.productSupplyList {
+  display: flex;
+  flex: 5;
+  height: 60vh;
+  margin: 1em 0;
+}

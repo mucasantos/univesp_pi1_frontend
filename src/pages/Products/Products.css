@@ -1,0 +1,19 @@
+.productsContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 1em 2em;
+}
+
+.addProductArea {
+  display: flex;
+  flex: 1;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.productsList {
+  display: flex;
+  flex: 5;
+  height: 60vh;
+  margin: 1em 0;
+}

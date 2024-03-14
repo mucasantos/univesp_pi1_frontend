@@ -1,0 +1,19 @@
+.suppliesContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 1em 2em;
+}
+
+.addSupplyArea {
+  display: flex;
+  flex: 1;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.suppliesList {
+  display: flex;
+  flex: 5;
+  height: 60vh;
+  margin: 1em 0;
+}
