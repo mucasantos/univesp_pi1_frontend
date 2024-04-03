@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2024-04-03T20:55:16.153Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="RFB5fWpkY4NWhT6MlHec" version="24.2.2" type="device">
+  <diagram name="Page-1" id="pk2F3UfNSXs6vP98yjFq">
+    <mxGraphModel dx="872" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ylo2kuanBVLSw_upfr-C-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ylo2kuanBVLSw_upfr-C-1" target="ylo2kuanBVLSw_upfr-C-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ylo2kuanBVLSw_upfr-C-1" target="ylo2kuanBVLSw_upfr-C-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ylo2kuanBVLSw_upfr-C-1" target="ylo2kuanBVLSw_upfr-C-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-1" value="GESTOQ" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-1">
+          <mxGeometry x="160" y="60" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-1">
+          <mxGeometry x="170" y="120" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-9" value="Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-1">
+          <mxGeometry x="180" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-1">
+          <mxGeometry x="170" y="90" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-2" value="Produtos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-3" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-2">
+          <mxGeometry y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-4" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-2">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-5" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-2">
+          <mxGeometry y="90" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-14" value="Estoques" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-15" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-14">
+          <mxGeometry y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-16" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-14">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-17" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-14">
+          <mxGeometry y="90" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-19" value="GESTOQ" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="400" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-19">
+          <mxGeometry x="60" y="50" width="310" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-22" value="Adicionar Produto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-19">
+          <mxGeometry x="60" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-23" value="Nome" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-19">
+          <mxGeometry x="90" y="90" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-26" value="Categoria" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-19">
+          <mxGeometry x="90" y="120" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-27" value="Preço" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-19">
+          <mxGeometry x="90" y="150" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-28" value="unidade medida" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-19">
+          <mxGeometry x="90" y="180" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ylo2kuanBVLSw_upfr-C-30" value="Salvar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ylo2kuanBVLSw_upfr-C-19">
+          <mxGeometry x="290" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

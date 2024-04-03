@@ -39,7 +39,7 @@ const Signin = () => {
       <FormControl>
         <TextField
           id="login"
-          label="Name"
+          label="Nome"
           variant="outlined"
           onChange={(e) => setName(e.target.value)}
         />

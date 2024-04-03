@@ -52,8 +52,7 @@ const Navbar = () => {
               textDecoration: "none",
             }}
           >
-        UNIVESP 2024 - PI-1
-            </Typography>
+        GESTOQ - Sistema de Gestão de estoque            </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}>
             <IconButton
